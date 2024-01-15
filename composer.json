@@ -1,0 +1,19 @@
+{
+    "name": "rombongandra/rombong",
+    "description": "untuk kerja",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Rombongandra\\Rombong\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "andra"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
